@@ -1,0 +1,6 @@
+{
+  "browser": "firefox",
+  "chromeDriverPath": "",
+  "firefoxDriverPath": "C:\\Users\\adist\\IdeaProjects\\ProjectTesting\\src\\main\\java\\project\\driver\\geckodriver.exe",
+  "internetExplorerDriverPath": ""
+}

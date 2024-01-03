@@ -1,0 +1,19 @@
+{
+  "inputUsername": "id=username",
+  "inputPassword": "id=password",
+  "rememberMeCheckbox": "css=#rememberme",
+  "loginButton": "css=input[value='Login']",
+  "input_Username": "id=reg_email",
+  "input_Password": "id=reg_password",
+  "registerButton": "css=input[value='Register']",
+  "shop_page":  "css=li[id='menu-item-40'] a",
+  "product": "css=img[title='Android Quick Start Guide']",
+  "rating": "css=.star-4",
+  "reviews": "css=a[href='#tab-reviews']",
+  "comment": "css=#comment",
+  "author": "id=author",
+  "email": "id=email",
+  "save_info": "css=#wp-comment-cookies-consent",
+  "shop_button": "id=submit",
+  "qty": "css=input[title='Qty']"
+}
